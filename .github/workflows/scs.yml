@@ -1,3 +1,4 @@
+name: SCS
 on:
   push:
   workflow_dispatch:
