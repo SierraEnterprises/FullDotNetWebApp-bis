@@ -24,4 +24,4 @@ jobs:
       - name: Upload sarif
         uses: github/codeql-action/upload-sarif@v2
         with:
-          sarif-file: ./FullDotNetWebApp/analysis.sarif
+          sarif_file: ./FullDotNetWebApp/analysis.sarif
